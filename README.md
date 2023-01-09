@@ -1,4 +1,9 @@
 # VBA Homework: The VBA of Wall Street
+## Summary
+This is VBA- Challenge to find
+Here is my screenshots for summary reports :
+![alt=""](Year 2018 output screenshot - VBA Challenge.png)
+
 
 ## Background
 
